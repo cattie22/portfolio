@@ -7,9 +7,9 @@
           </span>
           <br> 
           <h1 ref="title" class="title">
-            I'm Job Njoroge.
+            I'm Catherine.
           </h1>
-          <span ref="slogan" class="slogan-text">A FrontEnd Developer</span>
+          <span ref="slogan" class="slogan-text">A Security Consultant</span>
           <p ref="intro" class="intro">
             I'm currently working at <a target="_blank" href="https://lendomatic.com/">Lendomatic</a>, a Fintech company based in Copenhagen, Denmark. 
             I work with VueJs, Wordpress, SCSS and Twig templating language. 
