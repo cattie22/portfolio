@@ -143,6 +143,7 @@
                         </p>
                         </div>
                     </div>
+                    </div>
                     <div class="group" id="skills">
                         <div class="row">
                         <div class="col-md-6">
