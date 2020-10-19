@@ -227,7 +227,6 @@
                            <span>📖</span>
                         </p>
                     </div>
-                </div>
             </section>
             </main>
     </div>
