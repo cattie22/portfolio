@@ -174,7 +174,7 @@
                                 </div>
                             </div>
                             <!-- <h3>Other notable skills related to Web Development</h3>
-                            <p>Drupal, Sass, Vanilla.js  </p> -->
+                            <p>Drupal, Sass, JSON, XML, Mongo DB </p> -->
                             </div>
                         </div>
                         <div class="col-md-6">
