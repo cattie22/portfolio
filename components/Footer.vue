@@ -10,11 +10,11 @@
               </li>
               <li>
                 <!-- <i class="icon ion-logo-instagram"></i> -->
-                <a href="https://www.linkedin.com/in/job-njoroge/" target="_blank">linkedin</a>
+                <a href="https://www.linkedin.com/in/catherinegitau/" target="_blank">linkedin</a>
               </li>
               <li>
                 <!-- <i class="icon ion-logo-github"></i> -->
-                <a href="https://github.com/zlatanMkare" target="_blank">github</a>
+    
               </li>
             </ul>
             <small class="text-uppercase">© {{year}}. Thou shall not steal</small>

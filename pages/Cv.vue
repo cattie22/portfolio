@@ -118,19 +118,21 @@
                             <time class="period float-right">09/2016 - 06/2018</time>
                             </div>
                         </div>
+                        </div>
                         <p class="text-muted">
                             Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
                             Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
                         </p>
                         </div>
-                    </div>
+                        
+                    
                         <div class="item">
                         <div class="row">
                             <div class="col-md-6">
                             <h3>Bachelor in Web Development</h3>
                             <!-- <h4 class="organization">Erhvervsakademi sjælland</h4> -->
     
-            
+                            <br>
                             <br>
                             </div>
                             <div class="col-md-6">
@@ -143,7 +145,7 @@
                         </p>
                         </div>
                     </div>
-                    </div>
+                    
                     <div class="group" id="skills">
                         <div class="row">
                         <div class="col-md-6">

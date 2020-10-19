@@ -3,7 +3,7 @@
     <div class="container no-padd-x">
       <nav class="navbar navbar-expand-lg navbar-light">
         <nuxt-link to="/">
-          <span ref="logo" class="navbar-brand">Njoroge.</span>
+          <span ref="logo" class="navbar-brand">Njeri.</span>
         </nuxt-link>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
