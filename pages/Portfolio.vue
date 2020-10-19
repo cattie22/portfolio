@@ -6,7 +6,7 @@
             <div class="col-md-10">
                 <p ref="subheading" class="subheading">some projects I've worked on</p>
                 <h2 ref="title" class="title">
-                    As a front-end developer, I aim to build <span class="text-bg">progressive</span> and modern <span class="text-bg">websites</span>.
+                    As a Web developer, I aim to build <span class="text-bg">progressive</span> and modern <span class="text-bg">websites</span>.
                 </h2>
             </div>
         </div>
@@ -30,7 +30,7 @@
 
         <div class="bigpadding"></div>
 
-        <div class="row portfolio">
+         <!-- <div class="row portfolio">
             <div class="col-md-6">
                 <img ref="port" class="img-fluid" src="../static/folkelaanet.png">
             </div>
@@ -43,7 +43,7 @@
                 </p>
                 <a class="btn btn-primary btn-pill" target="_blank" href="http://folkelaanet.dk/">View Live Site</a>
             </div> 
-        </div>
+        </div> -->
 
         <div class="bigpadding"></div>
 
@@ -53,7 +53,7 @@
                 <br>
                 <p class="subheading">Destinasia</p>
                 <p>
-                    Destinasia is a pet project of mine that I worked on. The website is basically a tour booking system. Currently I havn't had time to finish building it to a fully working website.
+                    Destinasia is a pet project that my former classmate and friend have worked on. The website is basically a tour booking system. Currently we havn't had time to finish building it to a fully working website.
                 </p>
                 <a class="btn btn-primary btn-pill" target="_blank" href="http://destinasia.jobnjoroge.com">View Live Site</a>
             </div>
