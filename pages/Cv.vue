@@ -4,7 +4,7 @@
             <section class="cv-block block-intro">
                 <div class="container">
                 <div class="avatar">
-                    <img ref="profile" class="img" width="auto" src="../static/profile.jpeg"> 
+                   <!-- <img ref="profile" class="img" width="auto" src="../static/profile.jpeg"> -->
                 </div>
                 <br>
                 <br>
@@ -108,14 +108,29 @@
                         <div class="item">
                         <div class="row">
                             <div class="col-md-6">
-                            <h3>Bachelor in Web Development</h3>
-                            <!-- <h4 class="organization">Erhvervsakademi sjælland</h4> -->
-                            <img width="200px" src="../static/school_logo.png">
-                            <br>
-                            <br>
+                            <h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3>
+                            <!-- <h4 class="organization">Aalborg University, Copenhagen</h4> -->                       
                             </div>
                             <div class="col-md-6">
-                            <time class="period float-right">09/2009 - 06/2014</time>
+                            <time class="period float-right">09/2016 - 06/2018</time>
+                            </div>
+                        </div>
+                        </div>
+                        <p class="text-muted">
+                            Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
+                            Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
+                        </p>
+                        </div>
+
+                    
+                        <div class="item">
+                        <div class="row">
+                            <div class="col-md-6">
+                            <h3>Bachelor in Web Development</h3>
+                            <!-- <h4 class="organization">Erhvervsakademi sjælland</h4> -->
+                            </div>
+                            <div class="col-md-6">
+                            <time class="period float-right">02/2011 - 01/2015</time>
                             </div>
                         </div>
                         <p class="text-muted">
@@ -124,6 +139,7 @@
                         </p>
                         </div>
                     </div>
+                    
                     <div class="group" id="skills">
                         <div class="row">
                         <div class="col-md-6">
@@ -153,8 +169,8 @@
                                 aria-valuemin="0" aria-valuemax="70" style="width:70%">
                                 </div>
                             </div>
-                            <!-- <h3>Other notable skills</h3>
-                            <p>Drupal, twig, Sass, Vanilla Js </p> -->
+                            <!-- <h3>Other notable skills related to Web Development</h3>
+                            <p>Drupal, Sass, JSON, XML, Mongo DB </p> -->
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -165,7 +181,7 @@
                                     <img width="20px" src="https://img.icons8.com/ios-glyphs/48/000000/user.png">
                                 </div>
                                 <div class="col-9">
-                                <span>Job Gathu Njoroge</span>
+                                <span>Catherine Njeri Gitau</span>
                                 </div>
                             </div>
                             <br>
@@ -174,7 +190,7 @@
                                 <img width="20px" src="https://img.icons8.com/ios/50/000000/phonelink-ring.png">
                                 </div>
                                 <div class="col-9">
-                                <span>+45 28 38 74 94</span>
+                                <span>+45 42206363</span>
                                 </div>
                             </div>
                             <br>
@@ -183,7 +199,7 @@
                                 <img width="20px" src="https://img.icons8.com/ios/50/000000/new-post.png">
                                 </div>
                                 <div class="col-9">
-                                <span>jobgathunjoroge@yahoo.com</span>
+                                <span>cattie.g8@gmail.com</span>
                                 </div>
                             </div>
                             <br>
@@ -192,7 +208,7 @@
                                 <img width="20px" src="https://img.icons8.com/ios/50/000000/linkedin.png">
                                 </div>
                                 <div class="col-9">
-                                <span><a href="https://www.linkedin.com/in/job-njoroge/" target="_blank">linkedin profile</a></span>
+                                <span><a href="https://www.linkedin.com/in/catherinegitau/" target="_blank">linkedin profile</a></span>
                                 </div>
                             </div>
                             </div>
@@ -204,14 +220,13 @@
                         <p class="text-center text-muted emojis">
                            <span>🍽</span>
                            <span>🛩 </span>
-                           <span>⚽</span> 
+                        
                            <span>🏖</span> 
-                           <span>🎮</span> 
+            
                            <span>🎼</span>
                            <span>📖</span>
                         </p>
                     </div>
-                </div>
             </section>
             </main>
     </div>

@@ -15,7 +15,7 @@
                 </p>
                 <br>
                 <div>
-                    <a class="btn btn-primary" href="mailto:jobgathunjoroge@yahoo.com">
+                    <a class="btn btn-primary" href="mailto:cattie.g8@gmail.com">
                         Send mail <i class="icon ion-md-arrow"></i>
                     </a>
                 </div>
