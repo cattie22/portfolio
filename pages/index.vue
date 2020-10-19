@@ -9,12 +9,12 @@
           <h1 ref="title" class="title">
             I'm Catherine.
           </h1>
-          <span ref="slogan" class="slogan-text">A Security Consultant</span>
+          <span ref="slogan" class="slogan-text">IAM Security Consultant</span>
           <p ref="intro" class="intro">
-            I'm currently working at <a target="_blank" href="https://lendomatic.com/">Lendomatic</a>, a Fintech company based in Copenhagen, Denmark. 
-            I work with VueJs, Wordpress, SCSS and Twig templating language. 
-            My main task invole designing, building and maintaining our Frontend architecture as per Business requirements, which is 
-            currently in use in three countries.
+            I'm currently working at <a target="_blank" href="https://www.nnit.com/">NNIT A/S</a>, an IT Service Provider  company based in Søborg, Denmark. 
+            I have worked with nodeJs, Express, Wordpress, CSS and JQuery to design and build web applications. 
+            Additionally, I have limited experience in designing and implementing Web Application Security.
+            My main task invole designing, building and maintaining IAM solutions which are build upon SailPoint Identity Products as per Business requirements.
           </p>
           <div ref="btn" class="links">
             <nuxt-link
