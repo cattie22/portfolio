@@ -53,7 +53,7 @@
                                 </div>
                             </div>
                             <div class="text-muted">
-                                Working an IT Student Assistant in Business IT Security to support.
+                                Working an IT Student Assistant in Business IT Security to support several teams in the Security department.
                                 <ul class="pt-2">
                                     <li>Designing and Implementing Identity and Access management systems mainly based on Java.</li>
                                     <li>Creating and updating design and operation documents.</li>
