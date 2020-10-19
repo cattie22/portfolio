@@ -5,7 +5,7 @@
             <div class="col-md-8">
                 <h2 class="subheading">My philosophy</h2>
                 <br>
-                <span class="title">Make things as simple as possible but not simpler</span>
+                <span class="title">Great design must be simple</span>
                 <br>
             </div> 
             <div class="col-md-4">
