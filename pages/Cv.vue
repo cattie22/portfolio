@@ -12,7 +12,7 @@
                     <p>
                         The best preparation for good work tomorrow is to do good work today
                     </p>
-                    <small>- A favorite quote by Elbert Hubbard</small>
+                    <small>- My favorite quote by Elbert Hubbard</small>
                 </div>
                 </div>
             </section>
@@ -23,20 +23,42 @@
                         <div ref="item" class="item">
                             <div class="row">
                                 <div class="col-md-6">
-                                <h3>Front End Developer</h3>
-                                <h4 class="organization">Lendomatic ApS</h4>
+                                <h3>IAM Consultant</h3>
+                                <h4 class="organization">NNIT A/S</h4>
                                 </div>
                                 <div class="col-md-6">
-                                <time class="period float-right">05/2017 - present</time>
+                                <time class="period float-right">03/2018 - present</time>
                                 </div>
                             </div>
                             <div class="text-muted">
-                                Working as the lead Front End developer to ensure all the company's loan concepts (3) are interactive and usable.
+                                Working as an IAM Consultant to design and implement IAM systems per business requirements.
                                 <ul class="pt-2">
-                                    <li>Implementing the Frontend system in Vue.js</li>
-                                    <li>Collaborating with Backend Developers on day to day tasks</li>
-                                    <li>Collaborating with Marketing on day to day tasks</li>
-                                    <li>Prototyping, designing and coding new designs</li>
+                                    <li>Designing and Implementing Identity and Access management systems mainly based on Java.</li>
+                                    <li>Creating and updating design and operation documents.</li>
+                                    <li>Collaborating with Customers to identify and refine business requirements.</li>
+                                    <li>Prototyping, </li>
+                                    <li>Occassionally updating the company's statistics (Vue and Chart.js)</li>
+                                    <li>Maintaining all our websites</li>
+                                </ul>
+                            </div>
+                        </div>
+                         <div ref="item" class="item">
+                            <div class="row">
+                                <div class="col-md-6">
+                                <h3>IAM Consultant</h3>
+                                <h4 class="organization">Danske Bank</h4>
+                                </div>
+                                <div class="col-md-6">
+                                <time class="period float-right">04/2017 - 02/2018</time>
+                                </div>
+                            </div>
+                            <div class="text-muted">
+                                Working an IT Student Assistant in Business IT Security to support several teams in the Security department.
+                                <ul class="pt-2">
+                                    <li>Designing and Implementing Identity and Access management systems mainly based on Java.</li>
+                                    <li>Creating and updating design and operation documents.</li>
+                                    <li>Collaborating with Customers to identify and refine business requirements.</li>
+                                    <li>Prototyping, </li>
                                     <li>Occassionally updating the company's statistics (Vue and Chart.js)</li>
                                     <li>Maintaining all our websites</li>
                                 </ul>
@@ -49,7 +71,7 @@
                                 <h4 class="organization">Freelancer, upwork</h4>
                                 </div>
                                 <div class="col-md-6">
-                                <time class="period float-right">04/2015 - 12/2015</time>
+                                <time class="period float-right">04/2016 - 12/2016</time>
                                 </div>
                             </div>
                             <div class="text-muted">
@@ -97,7 +119,7 @@
                             </div>
                         </div>
                         <p class="text-muted">
-                            Studied at Zealand (Erhvervsakademi Sjælland - Roskilde). I started out with an A.P Degree in Computer Science, where I was introduced to programming, mostly Java and C#. After finishing my degree, I toped up in 
+                            Studied at Zealand (Erhvervsakademi Sjælland - Roskilde). I started out with 2.5 years of Computer Science, where I was introduced to programming, mostly Java. After finishing my degree, I toped up in 
                             Bachelor in Web Development, where I turned my focus to Frontend development (JavaScript, HTML5 and Css3).
                         </p>
                         </div>
