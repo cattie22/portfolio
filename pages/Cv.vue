@@ -109,7 +109,7 @@
                           <div class="row">
                             <div class="col-md-6">
                             <h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3>
-                            <!-- <h4 class="organization">Aalborg University, Copenhagen</h4> -->                       
+                            <h4 class="organization">Aalborg University, Copenhagen</h4>                     
                             </div>
                             <div class="col-md-6">
                             <time class="period float-right">09/2016 - 06/2018</time>
@@ -120,12 +120,12 @@
                             Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
                             Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
                         </p>
-                        
-                        <div ref="item1" class="item">
+                     </div>
+                        <div ref="item" class="item">
                         <div class="row">
                             <div class="col-md-6">
                             <h3>Bachelor in Web Development</h3>
-                            <!-- <h4 class="organization">Erhvervsakademi sjælland</h4> -->
+                            <h4 class="organization">Erhvervsakademi sjælland</h4> 
                             </div>
                             <div class="col-md-6">
                             <time class="period float-right">02/2011 - 01/2015</time>
