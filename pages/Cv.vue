@@ -4,7 +4,7 @@
             <section class="cv-block block-intro">
                 <div class="container">
                 <div class="avatar">
-                    <img ref="profile" class="img" width="auto" src="../static/profile.jpeg"> 
+                   <!-- <img ref="profile" class="img" width="auto" src="../static/profile.jpeg"> -->
                 </div>
                 <br>
                 <br>
@@ -109,10 +109,7 @@
                         <div class="row">
                             <div class="col-md-6">
                             <h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3>
-                            <!-- <h4 class="organization">Aalborg University, Copenhagen</h4> -->
-                            
-                            <br>
-                            <br>
+                            <!-- <h4 class="organization">Aalborg University, Copenhagen</h4> -->                       
                             </div>
                             <div class="col-md-6">
                             <time class="period float-right">09/2016 - 06/2018</time>
@@ -124,16 +121,13 @@
                             Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
                         </p>
                         </div>
-                        
+
                     
                         <div class="item">
                         <div class="row">
                             <div class="col-md-6">
                             <h3>Bachelor in Web Development</h3>
                             <!-- <h4 class="organization">Erhvervsakademi sjælland</h4> -->
-    
-                            <br>
-                            <br>
                             </div>
                             <div class="col-md-6">
                             <time class="period float-right">02/2011 - 01/2015</time>
