@@ -103,41 +103,15 @@
                             </div>
                         </div>
                     </div>
-                    <div class="education group" id="education">
-                        <h2 class="text-center">Education</h2>
-                        <div class="item">
-                          <div class="row">
-                            <div class="col-md-6">
-                            <h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3>
-                            <h4 class="organization">Aalborg University, Copenhagen</h4>                     
-                            </div>
-                            <div class="col-md-6">
-                            <time class="period float-right">09/2016 - 06/2018</time>
-                            </div>
-                          </div>
-                        </div>
-                        <p class="text-muted">
-                            Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
-                            Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
-                        </p>
-                     </div>
-                        <div ref="item" class="item">
-                        <div class="row">
-                            <div class="col-md-6">
-                            <h3>Bachelor in Web Development</h3>
-                            <h4 class="organization">Erhvervsakademi sjælland</h4> 
-                            </div>
-                            <div class="col-md-6">
-                            <time class="period float-right">02/2011 - 01/2015</time>
-                            </div>
-                        </div>
-                        <p class="text-muted">
-                            Studied at Zealand (Erhvervsakademi Sjælland - Roskilde). I started out with 2.5 years of Computer Science, where I was introduced to programming, mostly Java. After finishing my degree, I toped up in 
-                            Bachelor in Web Development, where I turned my focus to Frontend development (JavaScript, HTML5 and Css3).
-                        </p>
-                        </div>
-                    </div>
-                    
+                    <div class="education group" id="education"><h2 class="text-center">Education</h2><div class="item"><div class="row"><div class="col-md-6"><h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3><h4 class="organization">Aalborg University, Copenhagen</h4></div><div class="col-md-6"><time class="period float-right">09/2016 - 06/2018</time></div></div></div><p class="text-muted">
+                        Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
+                        Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
+                    </p>
+    <div class="item"><div class="row"><div class="col-md-6"><h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3><h4 class="organization">Aalborg University, Copenhagen</h4></div><div class="col-md-6"><time class="period float-right">09/2016 - 06/2018</time></div></div></div><p class="text-muted">
+                        Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
+                        Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
+                    </p>
+</div>
                     <div class="group" id="skills">
                         <div class="row">
                         <div class="col-md-6">

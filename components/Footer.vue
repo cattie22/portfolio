@@ -6,7 +6,7 @@
             <ul class="social">
               <li>
                 <!-- <i class="icon ion-logo-codepen"></i> -->
-                <a href="https://codepen.io/jobgathu/" target="_blank">codepen</a>
+                <!--<a href="https://codepen.io/jobgathu/" target="_blank">codepen</a> -->
               </li>
               <li>
                 <!-- <i class="icon ion-logo-instagram"></i> -->
