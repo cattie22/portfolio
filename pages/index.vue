@@ -9,7 +9,7 @@
           <h1 ref="title" class="title">
             I'm Catherine.
           </h1>
-          <span ref="slogan" class="slogan-text">IAM Security Consultant</span>
+          <span ref="slogan" class="slogan-text">IAM Consultant</span>
           <p ref="intro" class="intro">
             I'm currently working at <a target="_blank" href="https://www.nnit.com/">NNIT A/S</a>, an IT Service Provider  company based in Søborg, Denmark. 
             I have previously worked with Vue Js, Express, Wordpress, CSS and JQuery to design and build web applications. 
