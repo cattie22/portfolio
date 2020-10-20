@@ -10,7 +10,7 @@
                <br>
                <div class="intro" ref="intro">
                   <p>
-                     The best preparation for good work tomorrow is to do good work today
+                     The best preparation for good work tomorrow is to do good work today.
                   </p>
                   <small>- My favorite quote by Elbert Hubbard</small>
                </div>
@@ -36,9 +36,8 @@
                            <li>Designing and Implementing Identity and Access management systems mainly based on Java.</li>
                            <li>Creating and updating design and operation documents.</li>
                            <li>Collaborating with Customers to identify and refine business requirements.</li>
-                           <li>Prototyping, </li>
-                           <li>Occassionally updating the company's statistics (Vue and Chart.js)</li>
-                           <li>Maintaining all our websites</li>
+                           <li>Creating and maintaining system operational documents. </li>
+                           <li>Close collaboration with quality, testers and QA teams to ensure system quality.</li>
                         </ul>
                      </div>
                   </div>
@@ -55,12 +54,32 @@
                      <div class="text-muted">
                         Working an IT Student Assistant in Business IT Security to support several teams in the Security department.
                         <ul class="pt-2">
-                           <li>Designing and Implementing Identity and Access management systems mainly based on Java.</li>
-                           <li>Creating and updating design and operation documents.</li>
-                           <li>Collaborating with Customers to identify and refine business requirements.</li>
-                           <li>Prototyping, </li>
+                           <li>Working 'Keep it safe' initiative to raise security awareness
+                               within the company and also amongst the customers</li>
+                           <li>JIRA boards administration for different teams including
+                               preparing monthly performance dashboards.</li>
                            <li>Occassionally updating the company's statistics (Vue and Chart.js)</li>
-                           <li>Maintaining all our websites</li>
+                           <li>Preparation of policy documents involving the GDPR mainly within the area of consent.</li>
+                        </ul>
+                     </div>
+                  </div>
+                  <div ref="item" class="item">
+                     <div class="row">
+                        <div class="col-md-6">
+                           <h3> IT Student Assistant</h3>
+                           <h4 class="organization">Maersk Oil</h4>
+                        </div>
+                        <div class="col-md-6">
+                           <time class="period float-right">07/2016 - 03/2017</time>
+                        </div>
+                     </div>
+                     <div class="text-muted">
+                        Working an IT Student Assistant in Business IT to support several offshore teams as well as leading UAT Testing.
+                        <ul class="pt-2">
+                           <li>Documented and executed test plans and test cases to
+                           identify and uncover software defects and record them in HP Quality Centre. </li>
+                           <li>Recording and tracking incidents throughout the defect lifecycle in Service Now application from reporting to resolution.</li>
+                           <li>Worked closely with the business analyst to create performance KPI's and generate dashboards in QlikView. </li>
                         </ul>
                      </div>
                   </div>
@@ -87,10 +106,10 @@
                      <div class="row">
                         <div class="col-md-6">
                            <h3>Web Developer</h3>
-                           <h4 class="organization">Startup Kyiv Org.</h4>
+                           <h4 class="organization">Startup Kyiv Org</h4>
                         </div>
                         <div class="col-md-6">
-                           <time class="period float-right">09/2015 - 02/2015</time>
+                           <time class="period float-right">09/2014 - 02/2015</time>
                         </div>
                      </div>
                      <div class="text-muted">
@@ -123,16 +142,16 @@
                <div class="item">
                   <div class="row">
                      <div class="col-md-6">
-                        <h3>Masters in Innovative Communication Technologies and Entrepreneurship</h3>
-                        <h4 class="organization">Aalborg University, Copenhagen</h4>
+                        <h3>Bachelor in Web Development</h3>
+                        <h4 class="organization">Zealand Institute of Business and Technology</h4>
                      </div>
-                     <div class="col-md-6"><time class="period float-right">09/2016 - 06/2018</time></div>
+                     <div class="col-md-6"><time class="period float-right">02/2011 - 01/2015</time></div>
                   </div>
                 </div>
                
                <p class="text-muted">
-                  Studied at Aalborg, Copenhagen. A very expansive and interesting master program which set me on my current path working in the IT Security Domain. 
-                  Entrepreneurship, Machine Learning and IoT are some of the other domains covered in the Masters program.
+                  Studied at Zealand (Erhvervsakademi Sjælland - Roskilde). I started out with 2.5 years of Computer Science, where I was introduced to programming, mostly Java. After finishing my degree, I toped up in 
+                Bachelor in Web Development, where I turned my focus to Frontend development (JavaScript, HTML5 and Css3).
                </p>
             </div> 
             </div>
@@ -147,7 +166,7 @@
                               aria-valuemin="0" aria-valuemax="80" style="width:80%">
                            </div>
                         </div>
-                        <h3>Vue js, ES6 & JQuery</h3>
+                        <h3>Vue js, ES6, JQuery & SQL</h3>
                         <div class="progress">
                            <div class="progress-bar" role="progressbar" aria-valuenow="70"
                               aria-valuemin="0" aria-valuemax="80" style="width:80%">
