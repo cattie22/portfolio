@@ -12,7 +12,7 @@
           <span ref="slogan" class="slogan-text">IAM Security Consultant</span>
           <p ref="intro" class="intro">
             I'm currently working at <a target="_blank" href="https://www.nnit.com/">NNIT A/S</a>, an IT Service Provider  company based in Søborg, Denmark. 
-            I have previously worked with nodeJs, Express, Wordpress, CSS and JQuery to design and build web applications. 
+            I have previously worked with Vue Js, Express, Wordpress, CSS and JQuery to design and build web applications. 
             Additionally, I have limited experience in designing and implementing Web Application Security.
             My main task invole designing, building and maintaining IAM solutions which are build upon SailPoint Identity Products as per Business requirements.
           </p>

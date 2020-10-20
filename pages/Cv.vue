@@ -166,7 +166,7 @@
                               aria-valuemin="0" aria-valuemax="80" style="width:80%">
                            </div>
                         </div>
-                        <h3>Vue js, ES6 & JQuery</h3>
+                        <h3>Vue js, ES6, JQuery & SQL</h3>
                         <div class="progress">
                            <div class="progress-bar" role="progressbar" aria-valuenow="70"
                               aria-valuemin="0" aria-valuemax="80" style="width:80%">
